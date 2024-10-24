@@ -1,0 +1,36 @@
+*{margin: 0; padding: 0; box-sizing:border-box;}
+
+
+.flex {
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+}
+
+.table {
+  border-collapse: separate;
+  border-spacing:5 200px;
+  table-layout: fixed;
+}
+
+.navbar{
+  margin-bottom: 80px;
+  
+}
+
+.nav-item{
+  margin-left:110px;
+  
+}
+
+.navbar-toggler-icon{
+  text-decoration:none;
+}
+.btn{
+  margin-left:5px;
+}
+
+
+
+
+  
